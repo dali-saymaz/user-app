@@ -1,0 +1,23 @@
+.topControl{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.topinput{
+    width:200px !important;
+}
+
+.topButton{
+    width:200px;
+    margin-top: 10px;
+}
+
+.productsWrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
